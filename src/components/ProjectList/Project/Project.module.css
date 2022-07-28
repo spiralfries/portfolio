@@ -1,0 +1,12 @@
+.Project {
+    background:dodgerblue;
+    margin:10px;
+    padding:10px;
+}
+.Action {
+    background:goldenrod;
+    color:white;
+    font-weight:bold;
+    padding:5px;
+    border-radius:5px;
+}

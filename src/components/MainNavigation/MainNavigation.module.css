@@ -1,0 +1,12 @@
+.nav {
+    
+    background:dodgerblue;
+};
+.nav ul {
+    list-style-type:none;
+    display:flex;
+}
+.active {
+    color:orangered;
+    border-bottom:5px solid orangered;
+}

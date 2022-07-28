@@ -1,0 +1,12 @@
+.PortfolioList {
+    display:flex;
+}
+.PortfolioList li {
+    flex:0 0 25%;
+}
+.Select {
+    background:dodgerblue;
+    color:white;
+    font-weight:bold;
+    cursor:pointer;
+}
